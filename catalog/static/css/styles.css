@@ -1,0 +1,35 @@
+html{
+    background-color:#000;
+}
+
+.title{
+    padding-bottom: 10px;
+}
+
+.container-fluid{
+    background-color: #000;
+    color: #aaa;
+    padding-top: 15px;
+}
+
+.col-sm-2{
+    background-color: #002;
+}
+
+.col-sm-10 h1{
+    color: #ddd;
+    text-align: center;
+}
+
+.movies-directed {
+    margin-left:20px;
+    margin-top:20px
+}
+
+.movies-directed dl dt {
+    padding-left: 10px;
+}
+
+.movies-directed dl dd {
+    padding-left: 15px;
+}
